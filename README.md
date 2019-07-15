@@ -18,13 +18,13 @@ platform :ios, '8.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-pod 'SOAPNetWorkRequestClass'
+pod 'SOAPNetWorkRequest'
 end
 ```
 ## 用法
 
 ```swift
-import SOAPNetWorkRequestClass
+import SOAPNetWorkRequest
 
 class MyViewController: UIViewController {
 
