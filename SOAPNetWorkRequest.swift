@@ -17,7 +17,7 @@ public class SOAPNetWorkRequest: NSObject {
     
     /// 请求的命名空间
     private let kNameSpace = "http://tempuri.org/"
-    
+     
     public static let shareInstance : SOAPNetWorkRequest = {
         
         let share = SOAPNetWorkRequest()
