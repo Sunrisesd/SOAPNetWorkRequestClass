@@ -1,5 +1,5 @@
 Pod::Spec.new do |s| 
-  s.name         = "SOAPNetWorkRequest"			#SDK名称
+  s.name         = "SOAPNetWorkRequest"				#SDK名称
   s.version      = "1.0.0"                        		#版本号
   s.homepage     = "https://github.com/Sunrisesd"  		#工程主页地址
   s.summary      = "基于Alamofire库的SOAP网络请求类"  		#项目的简单描述
