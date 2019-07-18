@@ -11,7 +11,7 @@ import Alamofire
 
 public class SOAPNetWorkRequest: NSObject {
 
-    /// 请求成功的回调   
+    /// 请求成功的回调               
     public typealias SuccessBlock = (NSData?,String,Bool)->Void
     private var successBlock:SuccessBlock?
     
